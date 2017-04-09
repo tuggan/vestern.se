@@ -1,3 +1,14 @@
 body {
     background-color: lightgray;
 }
+
+#github {
+    background-image: url("../images/github-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.logos {
+    width: 100%;
+    height: 100%;
+}
